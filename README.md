@@ -1,4 +1,4 @@
-# QAC SFIA2 Project
+# QAC SFIA2 Project - Ryan and Eva
 
 This application is a simple [Flask application](https://flask.palletsprojects.com/en/1.1.x/quickstart/#a-minimal-application), ready to be deployed, for your SFIA2 project.
 
